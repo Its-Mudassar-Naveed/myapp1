@@ -1,0 +1,9 @@
+#header
+{
+    display: flex;
+    justify-content: space-between;
+}
+.social-icon
+{
+    font-size: 40px;
+}
